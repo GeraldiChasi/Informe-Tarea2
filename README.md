@@ -345,7 +345,7 @@ CONCLUSIONES
 
 -Las resistencias son un factor muy importante en los circuitos ya que nos permiten limitar la corriente que circula por una rama de un circuito eléctrico.
 
--Ademas phemos llegado a la conclucion de que los resistores tambien son vitales en la determinación de la operación de un
+-Ademas hemos llegado a la conclucion de que los resistores tambien son vitales en la determinación de la operación de un
 circuito.
 
 RECOMENDACIONES
