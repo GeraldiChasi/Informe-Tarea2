@@ -14,7 +14,10 @@ OBJETIVOS ESPECÍFICOS :
  
 MARCO TEÓRICO (RESUMEN)
 
+![image](https://user-images.githubusercontent.com/84587120/121645030-59a7c780-ca59-11eb-9bc4-27bd8eea99d5.png)
 
+
+![image](https://user-images.githubusercontent.com/84587120/121644963-45fc6100-ca59-11eb-9679-24108c601835.png)
 
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
@@ -211,6 +214,8 @@ d. Naranja   Blanco   Negro   Oro   Rojo
 
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió. 
 
+
+
 Se conectan los cables a los dos polos del foco y la corriente que emite el óhmetro al circuito dando como resultado un pitido de continuidad, dando a entender que no hay resistencia en el foco.
 
 39. Explique cómo podría usar un óhmetro para determinar aproximadamente cuánto cable queda en un carrete de alambre de cobre AWG 24
@@ -269,43 +274,84 @@ Capitulo 4:
 
 a. E  40 V, R  20  d. E  10 V, R  2.5 M
 
-b. E  35 mV, R  5 m e. E  7.5 V, R  2.5  103 
+
+
+b. E  35 mV, R  5 m e. E  7.5 V, R  2.5  103
+
+
 
 c. V  200 V, R  40 k f. V  12 kV, R  2 M
+
 
 3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
 
 a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
+
+
 5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
+
+
 
 7. ¿Cuánto voltaje se puede aplicar a un resistor de 560 , si la corriente no debe exceder de 50 mA?
 
+
+
 9. En la figura 4-33, si E 30 V y la conductancia del resistor es de 0.2 S, ¿cuál es el valor de I? Sugerencia: véase la sección 3-11 en el capítulo 3. 
+
+![image](https://user-images.githubusercontent.com/84587120/121648733-6d552d00-ca5d-11eb-9fd4-4c38aa08141d.png)
+
 
 11. La corriente a través de un resistor es de 15 mA. Si la caída de voltaje en el resistor es de 33 V, ¿cuál es su código de colores?.
 
+![image](https://user-images.githubusercontent.com/84587120/121648688-64645b80-ca5d-11eb-8e6c-dbb3bdeeadcb.png)
+
+
+
 13. En el circuito de la figura 4-34, si el resistor es reemplazado por otro con bandas roja, roja y negra, ¿a qué voltaje cree que se funda el fusible?
+
+![image](https://user-images.githubusercontent.com/84587120/121645636-0bdf8f00-ca5a-11eb-970d-649fa9bf266b.png)
+
 
 15. Un electroimán se devana con alambre de cobre AWG 30. La bobina tiene 800 vueltas y la longitud promedio de cada una es de 3 pulgadas. Cuando se conecta a una fuente de cd de 48 V ¿cuál es la corriente
 a. a 20C? b. a 40C?
 
+![image](https://user-images.githubusercontent.com/84587120/121645680-16018d80-ca5a-11eb-9a74-053e3c961845.png)
+
+
 17. Un elemento resistivo está hecho de 100 m de alambre de aluminio con un diámetro de 0.5 mm. Si la corriente a 20˚C es de 200 mA ¿cuál es el voltaje aplicado?
+
+![image](https://user-images.githubusercontent.com/84587120/121645895-56f9a200-ca5a-11eb-900a-b7d0363245f5.png)
+
 
 19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?
 
+![image](https://user-images.githubusercontent.com/84587120/121648629-53b3e580-ca5d-11eb-9fa8-01f07c43c419.png)
+
+
+
 21. En un circuito resistivo, E 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
 
+![image](https://user-images.githubusercontent.com/84587120/121648572-4565c980-ca5d-11eb-9494-a044c7d8699c.png)
+
+
 23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
+
+![image](https://user-images.githubusercontent.com/84587120/121648533-3aab3480-ca5d-11eb-8403-94e71aabe2a7.png)
+
+
 
 4-2 Polaridad del voltaje y dirección de la corriente
 
 25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
 
+![image](https://user-images.githubusercontent.com/84587120/121648490-2ff09f80-ca5d-11eb-886e-25ded1aa21ba.png)
+
+
 4-3 Potencia 
 27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
 
-![image](https://user-images.githubusercontent.com/84427371/121635403-ca47e780-ca4b-11eb-8161-90204d5a36c3.png)
+![image](https://user-images.githubusercontent.com/84587120/121648419-1baca280-ca5d-11eb-9162-0524afa94f06.png)
 
 
 29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
@@ -323,6 +369,9 @@ a. a 20C? b. a 40C?
 35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
 
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
+
+![image](https://user-images.githubusercontent.com/84587120/121648820-88c03800-ca5d-11eb-88c4-e18ac168e1c8.png)
+
 
 39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
@@ -428,8 +477,12 @@ b)
 4-8 Análisis de circuitos con ayuda de la computadora 
 69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e.
 
+![image](https://user-images.githubusercontent.com/84587120/121646281-c374a100-ca5a-11eb-9a11-b83f32560adf.png)
 
 71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group), seleccione Lámpara Virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías. 
+
+![image](https://user-images.githubusercontent.com/84587120/121646250-ba83cf80-ca5a-11eb-9e45-cb4bac94ff79.png)
+
 
 73. Repita el problema 70 con PSpice.
 
@@ -437,6 +490,7 @@ b)
  a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 
+![image](https://user-images.githubusercontent.com/84587120/121646205-af30a400-ca5a-11eb-90b6-12681972b68e.png)
 
 VIDEO
 
