@@ -1,9 +1,26 @@
 Capítulo 3: 
 Resistencia de conductores 
 1. Determine la resistencia, a 20ºC, de 100 m de alambre de aluminio sólido que tiene los siguientes radios:
-a. 0.5 mm c. 0.005 mm 
-b. 1.0 mm d. 0.5 cm2. 
 
+a. 0.5 mm     c. 0.005 mm 
+
+b. 1.0 mm     d. 0.5 cm2. 
+
+![image](https://user-images.githubusercontent.com/84587091/121625393-0291fa80-ca39-11eb-8cf0-f49629ecd535.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625378-fa39bf80-ca38-11eb-869c-dcfc8675cb84.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625420-1178ad00-ca39-11eb-8ba8-81883dd87021.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625441-18072480-ca39-11eb-8878-42fbfb88baa3.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625466-22292300-ca39-11eb-8f40-9b01efd2e401.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625483-29503100-ca39-11eb-8d9b-69227c3092f4.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625496-2fdea880-ca39-11eb-9b6c-b5813dcedd13.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121625505-35d48980-ca39-11eb-9cee-f6a04bdadf7a.png)
 
 3. Una barra colectora de cobre sólido de 250 pies de longitud, que se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02  a 20°C, calcule la altura requerida de la barra (en pulgadas).
 
