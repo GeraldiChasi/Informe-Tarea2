@@ -340,3 +340,10 @@ a. a 20C? b. a 40C?
 75. El cursor puede usarse para leer valores desde las gráficas de PSpice. Obtenga la gráfica del problema 74 en la pantalla y:
  a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
+
+CONCLUSIONES Y RECOMENDACIONES
+
+Las resistencias son un factor muy importante en los circuitos ya que nos permiten limitar la corriente que circula por una rama de un circuito eléctrico.
+Ademas pudimos llegar a la conclucion de que los resistores tambien son vitales en la determinación de la operación de un
+circuito.
+Debemos examinar mas a fondo la resistencia en sus diferentes formas, ya que cada parte es fundamental en la operacion de un circuito y tener en cuenta que por lo menos debemos aprender lo basico sobre estas mismas.
