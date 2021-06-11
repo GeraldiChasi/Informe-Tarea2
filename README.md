@@ -16,9 +16,12 @@ OBJETIVOS ESPECÍFICOS :
  
 MARCO TEÓRICO (RESUMEN)
 
-
+CAPITULO 3 
 
 ![image](https://user-images.githubusercontent.com/84587120/121659236-b7431080-ca67-11eb-90ec-a42366a4a189.png)
+
+
+CAPITULO 4
 
 
 
@@ -475,7 +478,7 @@ b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierd
 ![image](https://user-images.githubusercontent.com/84587120/121651162-f0778280-ca5f-11eb-8272-dd5a52a77efa.png)
 
 VIDEO
-
+https://youtu.be/fjKEHLFtdxs
 
 CONCLUSIONES 
 
