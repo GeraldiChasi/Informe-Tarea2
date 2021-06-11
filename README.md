@@ -285,12 +285,20 @@ a. a 20C? b. a 40C?
 4-3 Potencia 
 27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
 
+![image](https://user-images.githubusercontent.com/84427371/121635403-ca47e780-ca4b-11eb-8161-90204d5a36c3.png)
+
 
 29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
 
+
+
 31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 . ¿Cuánta corriente requiere? 
 
+![image](https://user-images.githubusercontent.com/84427371/121635440-d92e9a00-ca4b-11eb-8b9a-241487f5bbdf.png)
+
 33. ¿Cuántos volts se deben aplicar a un resistor de 3  para que resulte una disipación de potencia de 752 W?
+
+![image](https://user-images.githubusercontent.com/84427371/121635454-e055a800-ca4b-11eb-8613-28cad497c865.png)
 
 35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
 
@@ -298,25 +306,76 @@ a. a 20C? b. a 40C?
 
 39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
+![image](https://user-images.githubusercontent.com/84427371/121635785-77226480-ca4c-11eb-93fe-da4957d8b30f.png)
+
+
 41. Un resistor de 0.27 k es especificado en 2 W. Calcule el máximo voltaje que se le puede aplicar y la máxima corriente que puede llevar sin exceder su especificación. 
+
+![image](https://user-images.githubusercontent.com/84427371/121635804-81446300-ca4c-11eb-8b08-c9005082ec65.png)
 
 43. Un resistor de 25  se conecta a un suministro de energía cuyo voltaje es de 100 V 
  5%. ¿Cuál es el posible intervalo de potencia disipada por el resistor?
+ 
+ ![image](https://user-images.githubusercontent.com/84427371/121635864-9a4d1400-ca4c-11eb-83c1-724455319a04.png)
+
 
 4-4 Convención de la dirección de la potencia
 
 45. Cada bloque de la figura 4-38 puede ser una fuente o una carga. Determine, para cada uno, su potencia y dirección. 
 
-47. Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas a. Determine la energía usada en joules. b. Determine la energía usada en watts-hora. c. A $0.08/kWh, ¿cuánto cuesta encender esta lámpara por 9 horas? 
+![image](https://user-images.githubusercontent.com/84427371/121635886-a507a900-ca4c-11eb-97a7-afc32423d390.png)
+
+
+47. Una lámpara de seguridad nocturna de 40 W se enciende por 9 horas a. Determine la energía usada en joules. b. Determine la energía usada en watts-hora. c. A $0.08/kWh, ¿cuánto cuesta encender esta lámpara por 9 horas?
+A)
+![image](https://user-images.githubusercontent.com/84427371/121636757-02e8c080-ca4e-11eb-9646-e17b569447aa.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/84427371/121636784-0c722880-ca4e-11eb-9296-af56e8f66581.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/84427371/121636891-31669b80-ca4e-11eb-8fd5-9fc837dfb8f7.png)
+
 
 49. Determine el costo total por usar los siguientes aparatos a $0.11 por kWh: a. Un tostador de 900 W por 5 minutos. b. Un calentador de 120 V y 8 A por 1.7 horas. c. Un lavaplatos de 1 100 W por 36 minutos. d. Un cautín de 120 V y 288  por 24 minutos.
 51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen: a. un calentador de 4 kW, de forma continua, b. un calentador de 3.6 kW 12 horas al día. Calcule el costo anual de poner a funcionar todas las cargas.
+A)
+
+![image](https://user-images.githubusercontent.com/84427371/121636961-4a6f4c80-ca4e-11eb-989b-f3a738fda36c.png)
+
+B)
+
+![image](https://user-images.githubusercontent.com/84427371/121637019-6672ee00-ca4e-11eb-81b3-574ce3361267.png)
+
+C)
+
+![image](https://user-images.githubusercontent.com/84427371/121637036-6e329280-ca4e-11eb-8c1d-7cfec7ad3631.png)
+
+D)
+
+![image](https://user-images.githubusercontent.com/84427371/121637058-74287380-ca4e-11eb-82f9-a00df771c19b.png)
+
+51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo
+hacen:
+a. un calentador de 4 kW, de forma continua,
+b. un calentador de 3.6 kW 12 horas al día.
+Calcule el costo anual de poner a funcionar todas las cargas
+
+![image](https://user-images.githubusercontent.com/84427371/121637700-6c1d0380-ca4f-11eb-9219-8c2b338f75e0.png)
 
 53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh ¿cuánto costaría tostar toda la barra?
 
+![image](https://user-images.githubusercontent.com/84427371/121637825-9e2e6580-ca4f-11eb-8412-247231f1e51e.png)
+
 55. La potencia de salida de un transformador con h 97% es de 50 kW. ¿Cuál es la potencia de entrada?
 
+![image](https://user-images.githubusercontent.com/84427371/121637848-aa1a2780-ca4f-11eb-90ef-3ddcf91e0c95.png)
+
 57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cuál es la eficiencia del dispositivo?
+
+![image](https://user-images.githubusercontent.com/84427371/121637888-be5e2480-ca4f-11eb-8e24-fcd75a3bd3ea.png)
 
 59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
 
@@ -341,13 +400,10 @@ a. a 20C? b. a 40C?
  a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 
-CONCLUSIONES
+CONCLUSIONES Y RECOMENDACIONES
 
--Las resistencias son un factor muy importante en los circuitos ya que nos permiten limitar la corriente que circula por una rama de un circuito eléctrico.
-
--Ademas hemos llegado a la conclucion de que los resistores tambien son vitales en la determinación de la operación de un
+Las resistencias son un factor muy importante en los circuitos ya que nos permiten limitar la corriente que circula por una rama de un circuito eléctrico.
+Ademas pudimos llegar a la conclucion de que los resistores tambien son vitales en la determinación de la operación de un
 circuito.
 
-RECOMENDACIONES
-
--Debemos examinar mas a fondo la resistencia en sus diferentes formas, ya que cada parte es fundamental en la operacion de un circuito y tener en cuenta que por lo menos debemos aprender lo basico sobre estas mismas.
+Debemos examinar mas a fondo la resistencia en sus diferentes formas, ya que cada parte es fundamental en la operacion de un circuito y tener en cuenta que por lo menos debemos aprender lo basico sobre estas mismas.
