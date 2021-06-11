@@ -345,7 +345,11 @@ a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
 35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
 
+![image](https://user-images.githubusercontent.com/84427371/121661275-a6939a00-ca69-11eb-919b-6998f5c9dcdd.png)
+
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
+
+![image](https://user-images.githubusercontent.com/84427371/121661352-bc08c400-ca69-11eb-801c-ed4483e38312.png)
 
 39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
