@@ -18,12 +18,11 @@ MARCO TEÓRICO (RESUMEN)
 
 CAPITULO 3 
 
-![image](https://user-images.githubusercontent.com/84587120/121659236-b7431080-ca67-11eb-90ec-a42366a4a189.png)
-
+![image](https://user-images.githubusercontent.com/84587091/121723247-e0859000-caab-11eb-89a9-90af2f7643a8.png)
 
 CAPITULO 4
 
-
+![image](https://user-images.githubusercontent.com/84587120/121659236-b7431080-ca67-11eb-90ec-a42366a4a189.png)
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 Capítulo 3: 
