@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/84587120/121650403-28ca9100-ca5f-11eb-84a1-f9de2f20f841.png)
+
 INFORME DE TAREA
 
 OBJETIVOS:
@@ -329,12 +331,7 @@ a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
 35. Un resistor con bandas café, negro y naranja disipa 0.25 W. Calcule su voltaje y su corriente.
 
-![image](https://user-images.githubusercontent.com/84427371/121649648-637ff980-ca5e-11eb-8fc4-966564950027.png)
-
-
 37. Un transmisor de radio portátil tiene una entrada de potencia de 0.455 kW. ¿Cuánta corriente obtendrá de una batería de 12 V?
-
-Se determina a través de óhmetro realizando una conexión entre las terminales, el óhmetro indica una conexión abierta la bombilla esta fundida.
 
 39. Un motor entrega 3.56 hp a una carga. ¿Cuántos watts son?
 
