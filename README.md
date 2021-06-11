@@ -24,23 +24,36 @@ b. 1.0 mm     d. 0.5 cm2.
 
 3. Una barra colectora de cobre sólido de 250 pies de longitud, que se muestra en la figura 3-34, se usa para conectar una fuente de voltaje a un panel de distribución. Si la barra tiene una resistencia de 0.02  a 20°C, calcule la altura requerida de la barra (en pulgadas).
 
+![image](https://user-images.githubusercontent.com/84587091/121626195-9c0ddc00-ca3a-11eb-9722-740877e9aeaa.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121626211-a3cd8080-ca3a-11eb-9053-7b0c3767cb03.png)
+
 5. Un alambre de cobre con un diámetro de 0.80 mm tiene una resistencia de 10.3  a 20°C. ¿Cuanto mide el alambre en metros y en pies? 
 
+![image](https://user-images.githubusercontent.com/84587091/121626506-2ce4b780-ca3b-11eb-97e4-5670ea534f66.png)
+
+![image](https://user-images.githubusercontent.com/84587091/121626525-340bc580-ca3b-11eb-9ee6-c31f916dab42.png)
 
 7. Determine la resistividad (en ohm-metros) de un cilindro de grafito con base de carbón que tiene una longitud de 6.00 cm, un diámetro de 0.50 mm y una resistencia medida de 3.0  a 20°C. ¿Cómo se compara este valor con la resistividad que se reporta para el carbón? 
 
+![image](https://user-images.githubusercontent.com/84587091/121626629-6ae1db80-ca3b-11eb-8b94-d4672db23304.png)
 
 9. Una sección de 2 500 m de alambre de aleación tiene una resistencia de 32 . Si el alambre tiene un diámetro de 1.5 mm, determine la resistividad del material en ohm-metros. ¿La aleación es mejor conductora que el cobre? 
 
+![image](https://user-images.githubusercontent.com/84587091/121626686-84832300-ca3b-11eb-9a34-77a0173d3211.png)
 
 3-2 Tabla de alambres eléctricos 
 11. Utilice la tabla 3-2 para determinar la resistencia de 300 pies de conductores de cobre sólido AWG 22 y AWG 19. Compare los diámetros y resistencias de los alambres.
 
+![image](https://user-images.githubusercontent.com/84587091/121626706-8f3db800-ca3b-11eb-9b37-b2e41c41c844.png)
 
 13. Determine la máxima corriente que puede conducir un alambre AWG 19 y uno AWG 30. 
 
+![image](https://user-images.githubusercontent.com/84587091/121626737-9d8bd400-ca3b-11eb-911a-dca71b926e45.png)
 
 15. Se determina que un carrete de alambre de transformador de cobre AWG 36 tiene una resistencia de 550  a una temperatura de 20°C. ¿Cuánto mide el alambre en metros?
+
+![image](https://user-images.githubusercontent.com/84587091/121626770-ae3c4a00-ca3b-11eb-8ddf-e5419458bea1.png)
 
 3-3 Resistencia de alambres: milésima circular 
 
