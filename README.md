@@ -1,5 +1,7 @@
 Capítulo 3: 
-Resistencia de conductores 
+
+3.1 RESISTENCIA DE CONDUCTORES
+
 1. Determine la resistencia, a 20ºC, de 100 m de alambre de aluminio sólido que tiene los siguientes radios:
 
 a. 0.5 mm     c. 0.005 mm 
@@ -42,7 +44,8 @@ b. 1.0 mm     d. 0.5 cm2.
 
 ![image](https://user-images.githubusercontent.com/84587091/121626686-84832300-ca3b-11eb-9a34-77a0173d3211.png)
 
-3-2 Tabla de alambres eléctricos 
+3-2 TABLA DE ALAMBRES ELÉCTRICOS
+
 11. Utilice la tabla 3-2 para determinar la resistencia de 300 pies de conductores de cobre sólido AWG 22 y AWG 19. Compare los diámetros y resistencias de los alambres.
 
 ![image](https://user-images.githubusercontent.com/84587091/121626706-8f3db800-ca3b-11eb-9b37-b2e41c41c844.png)
@@ -55,92 +58,203 @@ b. 1.0 mm     d. 0.5 cm2.
 
 ![image](https://user-images.githubusercontent.com/84587091/121626770-ae3c4a00-ca3b-11eb-8ddf-e5419458bea1.png)
 
-3-3 Resistencia de alambres: milésima circular 
+3-3 RESISTENCIA DE ALAMBRES: MILÉSIMA CIRCULAR 
 
-17. Determine el área en milésimas circulares de los siguientes conductores (T  20°C): 
+17. Determine el área en milésimas circulares de los siguientes conductores (T  20°C):
+
 a. Alambre circular con un diámetro de 0.016 pulgadas
- b. Alambre circular con un diámetro de 2.0 mm 
+
+![image](https://user-images.githubusercontent.com/84587091/121628929-d332bc00-ca3f-11eb-9f8d-cadb4b7df7ad.png)
+
+b. Alambre circular con un diámetro de 2.0 mm
+
+![image](https://user-images.githubusercontent.com/84587091/121628957-dcbc2400-ca3f-11eb-9b75-5c724d6c03a2.png)
+
 c. Barra colectora rectangular de 0.25  6.0 pulgadas 
 
+![image](https://user-images.githubusercontent.com/84587091/121628977-e6458c00-ca3f-11eb-9765-7aee9fea7f09.png)
 
 19. Calcule la resistencia, a 20°C, de 400 pies de conductores de cobre que tiene las mismas áreas de sección transversal que las del problema 17.
 
+𝒍𝒊𝒕𝒆𝒓𝒂𝒍 𝒂) 𝑫𝒂𝒕𝒐𝒔: 𝑨 = 𝟐𝟓𝟔𝒎𝒄 𝑹 =? 𝒍 = 𝟒𝟎𝟎𝒑𝒊𝒆𝒔
+
+![image](https://user-images.githubusercontent.com/84587091/121630024-fcece280-ca41-11eb-8217-ffbd0a64e29d.png)
+
+𝒍𝒊𝒕𝒆𝒓𝒂𝒍 𝒃) 𝑫𝒂𝒕𝒐𝒔: 𝑨 = 𝟔𝟐𝟎𝟗. 𝟒𝒎𝒄 𝑹 =? 𝒍 = 𝟒𝟎𝟎𝒑𝒊𝒆𝒔
+
+![image](https://user-images.githubusercontent.com/84587091/121630143-3e7d8d80-ca42-11eb-81c9-4508f7f65c66.png)
+
+𝒍𝒊𝒕𝒆𝒓𝒂𝒍 𝒄) 𝑫𝒂𝒕𝒐𝒔: 𝑨 = 𝟏𝟗𝟏𝟎𝒎𝒄 𝑹 =? 𝒍 = 𝟒𝟎𝟎𝒑𝒊𝒆𝒔
+
+![image](https://user-images.githubusercontent.com/84587091/121630166-463d3200-ca42-11eb-90d3-8074ca44bdb9.png)
 
 21. Un alambre de cobre sólido de 200 pies tiene una resistencia de 0.500 . 
-a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares. 
-b. Determine el diámetro del alambre en milésimas y en pulgadas. 
-. 
 
-23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5  (a una temperatura de 20°C). 
-a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares. b. Calcule la longitud del alambre en pies. 
+a. Determine el área de sección transversal del alambre en milésimas cuadradas y milésimas circulares.
 
-3-4 Efectos de la temperatura
+![image](https://user-images.githubusercontent.com/84587091/121630319-869cb000-ca42-11eb-8cd0-b8ba423c4ba1.png)
+
+b. Determine el diámetro del alambre en milésimas y en pulgadas.
+
+![image](https://user-images.githubusercontent.com/84587091/121630334-8f8d8180-ca42-11eb-9da5-692c6689f3c7.png)
+
+23. Un carrete de alambre de cobre sólido con un diámetro de 0.040 pulgadas tiene una resistencia de 12.5  (a una temperatura de 20°C).
+ 
+a. Determine el área de sección transversal en milésimas cuadradas y milésimas circulares.
+
+![image](https://user-images.githubusercontent.com/84587091/121630809-746f4180-ca43-11eb-85d5-72ab05f07f1b.png)
+
+b. Calcule la longitud del alambre en pies.
+
+![image](https://user-images.githubusercontent.com/84587091/121630825-7c2ee600-ca43-11eb-9856-b725b53b14a1.png)
+
+3-4 EFECTOS DE LA TEMPERATURA
+
 25. Un conductor de aluminio tiene una resistencia de 50  a temperatura ambiente. Encuentre la resistencia para el mismo conductor a 30°C, 0°C y a 200°C. 
 
+![image](https://user-images.githubusercontent.com/84587091/121630876-95379700-ca43-11eb-8db5-0b8bd8685b3a.png)
 
-27. Cierto material tiene una resistencia de 20  a temperatura ambiente (20°C) y 25  a una temperatura de 85°C. 
+27. Cierto material tiene una resistencia de 20  a temperatura ambiente (20°C) y 25  a una temperatura de 85°C.
+
 a. ¿El material tiene un coeficiente de temperatura positivo o negativo? Explique brevemente.
-b. Determine el valor del coeficiente de temperatura, a, a 20°C. 
-c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a 100°C (el punto de ebullición del agua). 
+
+![image](https://user-images.githubusercontent.com/84587091/121630929-b5675600-ca43-11eb-870a-0c519d641b1a.png)
+
+b. Determine el valor del coeficiente de temperatura, a, a 20°C.
+
+![image](https://user-images.githubusercontent.com/84587091/121630936-bc8e6400-ca43-11eb-8d62-7f3102ae26bd.png)
+
+c. Suponga que la función de resistencia frente a temperatura es lineal y determine la resistencia esperada del material a 0°C (el punto de congelación del agua) y a 100°C (el punto de ebullición del agua).
+
+![image](https://user-images.githubusercontent.com/84587091/121630943-c31cdb80-ca43-11eb-81f0-f7bd1697a38d.png)
 
 29. Un calentador eléctrico está hecho de alambre de nicromo. El alambre tiene una resistencia de 15.2  a una temperatura de 20°C. Determine la resistencia del alambre de nicromo cuando su temperatura aumente a 260°C. 
 
-30. Un diodo de silicio tiene una resistencia de 500  a 20°C. Determine la resistencia del diodo si su temperatura se incrementa con un cautín a 30° C. (Suponga que la función de resistencia frente a temperatura es lineal.) 
+![image](https://user-images.githubusercontent.com/84587091/121630967-cf089d80-ca43-11eb-871b-5e42c03f4e68.png)
 
-31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120  a una temperatura de 20°C y de 190  a 120°C. 
-a. Calcule la resistencia a una temperatura de 0°C. 
-b. Calcule la resistencia a una temperatura de 80°C. 
-c. Determine la intercepción de temperatura del material. 
+31. Un dispositivo eléctrico tiene una respuesta lineal de temperatura. El dispositivo tiene una resistencia de 120  a una temperatura de 20°C y de 190  a 120°C.
 
-32. Deduzca la expresión de la ecuación 3-8. 3-5 
+a. Calcule la resistencia a una temperatura de 0°C.
 
-Tipos de resistores 
+![image](https://user-images.githubusercontent.com/84587091/121631071-08410d80-ca44-11eb-92b0-7674125bcc1f.png)
+
+b. Calcule la resistencia a una temperatura de 80°C.
+
+![image](https://user-images.githubusercontent.com/84587091/121631082-0e36ee80-ca44-11eb-9aaf-60ac08de1de4.png)
+
+c. Determine la intercepción de temperatura del material.
+
+![image](https://user-images.githubusercontent.com/84587091/121631106-14c56600-ca44-11eb-9be5-8546acf8d585.png)
+
+3-5 TIPOS DE RESISTORES
+
 33. Un resistor variable de 10 k tiene su contacto deslizante (terminal movible b) inicialmente en la terminal inferior c. Determine la resistencia Rab entre las terminales a y b, y la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones:
-a. El contacto deslizante esta en c. 
-b. El contacto deslizante está a una quinta parte del trayecto de la superficie resistiva. 
-c. El contacto deslizante está a cuatro quintas partes del trayecto de la superficie resistiva. d. El contacto deslizante está en a
 
-3-6 Código de colores de resistores 
+a. El contacto deslizante esta en c.
+
+![image](https://user-images.githubusercontent.com/84587091/121631241-50f8c680-ca44-11eb-9b8f-5d4012fcd4a5.png)
+
+b. El contacto deslizante está a una quinta parte del trayecto de la superficie resistiva.
+
+![image](https://user-images.githubusercontent.com/84587091/121631254-581fd480-ca44-11eb-880e-94d84d1f1f09.png)
+
+c. El contacto deslizante está a cuatro quintas partes del trayecto de la superficie resistiva.
+
+![image](https://user-images.githubusercontent.com/84587091/121631273-5f46e280-ca44-11eb-8d76-c7ffe9793024.png)
+
+d. El contacto deslizante está en a
+
+![image](https://user-images.githubusercontent.com/84587091/121631282-640b9680-ca44-11eb-9607-a6a512b27202.png)
+
+3-6 CÓDIGO DE COLORES DE RESISTORES
+
 35. Dados los resistores con los siguientes códigos de colores (de izquierda a derecha) determine la resistencia, la tolerancia y la confiabilidad de cada componente. 
 Exprese la incertidumbre en porcentaje y en ohms. 
-a. Café    Verde    Amarillo   Plata 
-b. Rojo   Gris    Oro    Oro    Amarillo 
-c. Amarillo    Violeta    Azul   Oro
-d. Naranja   Blanco   Negro   Oro   Roj
 
-3-7 Medición de resistencia: el óhmetro 
+a. Café    Verde    Amarillo   Plata
+
+![image](https://user-images.githubusercontent.com/84587091/121631457-c6649700-ca44-11eb-8d85-72ca5faf3ba5.png)
+
+b. Rojo   Gris    Oro    Oro    Amarillo
+
+![image](https://user-images.githubusercontent.com/84587091/121631470-cb294b00-ca44-11eb-8a4f-5e8215eac21d.png)
+
+c. Amarillo    Violeta    Azul   Oro
+
+![image](https://user-images.githubusercontent.com/84587091/121631486-cf556880-ca44-11eb-8160-c549a726d43f.png)
+
+d. Naranja   Blanco   Negro   Oro   Rojo
+
+![image](https://user-images.githubusercontent.com/84587091/121631499-d4b2b300-ca44-11eb-9ae7-bb94c9512ba2.png)
+
+3-7 MEDICIÓN DE RESISTENCIA: EL ÓHMETRO
+
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió. 
 
+Se conectan los cables a los dos polos del foco y la corriente que emite el óhmetro al circuito dando como resultado un pitido de continuidad, dando a entender que no hay resistencia en el foco.
 
+39. Explique cómo podría usar un óhmetro para determinar aproximadamente cuánto cable queda en un carrete de alambre de cobre AWG 24
 
- 39. Explique cómo podría usar un óhmetro para determinar aproximadamente cuánto cable queda en un carrete de alambre de cobre AWG 24
+Se puede medir la resistencia que tiene el cable colocando el óhmetro de punta a punta y luego con ese valor de resistencia utilizar la forma de resistividad en un conductor para encontrar la longitud del cable.
 
-3-8 Termistores
-41. Un termistor tiene las características que se muestran en la figura 3-23. a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C. b. Determine la resistencia del dispositivo a 40°C. c. ¿El termistor tiene un coeficiente de temperatura positivo o negativo? Explique. 3-9 Celdas fotoconductoras 
+![image](https://user-images.githubusercontent.com/84587091/121631836-7934f500-ca45-11eb-8375-bb775d8eb0a9.png)
 
-3-11 Conductancia
-43. Calcula la conductancia de las siguientes resistencias: a. 0.25  b. 500  c. 250 k d. 12.5 M 
+3-8 TERMISTORES
 
+41. Un termistor tiene las características que se muestran en la figura 3-23. Explique. 
 
+![image](https://user-images.githubusercontent.com/84587091/121631892-8f42b580-ca45-11eb-902b-3621d7aaa778.png)
+
+a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
+
+![image](https://user-images.githubusercontent.com/84587091/121632124-08420d00-ca46-11eb-8c1b-3d0db2bfa335.png)
+
+b. Determine la resistencia del dispositivo a 40°C.
+
+![image](https://user-images.githubusercontent.com/84587091/121632140-0ed08480-ca46-11eb-91ce-a638c5e55534.png)
+
+c. ¿El termistor tiene un coeficiente de temperatura positivo o negativo?
+
+El coeficiente es negativo, el aumento de temperatura hace que sea más conductor el material.
+
+3-11 CONDUCTANCIA
+
+43. Calcula la conductancia de las siguientes resistencias:
+
+a. 0.25 Ω
+
+![image](https://user-images.githubusercontent.com/84587091/121632251-46d7c780-ca46-11eb-8d2e-e6cf26243a4c.png)
+
+b. 500 Ω 
+
+![image](https://user-images.githubusercontent.com/84587091/121632264-4b9c7b80-ca46-11eb-8908-4844a8a475ee.png)
+
+c. 250 kΩ 
+
+![image](https://user-images.githubusercontent.com/84587091/121632279-50612f80-ca46-11eb-9127-d7ad79d403af.png)
+
+d. 12.5 MΩ
+
+![image](https://user-images.githubusercontent.com/84587091/121632295-57883d80-ca46-11eb-8534-8becd6652484.png)
 
 45. Determine la conductancia de 1000 m de alambre de cobre sólido AWG 30 a una temperatura de 20°C.
 
- 
+![image](https://user-images.githubusercontent.com/84587091/121632371-80103780-ca46-11eb-97cf-08dbfba52476.png)
 
+Capitulo 4:
 
-
-
-
-
-
-Capitulo 4
 4-1 Ley de Ohm
+
 1. Para el circuito de la figura 4-33, determine la corriente I para cada uno de los siguientes incisos. Exprese la respuesta en la unidad más apropiada: amperios, miliamperios, microamperes, etcétera. 
+
 a. E  40 V, R  20  d. E  10 V, R  2.5 M
+
 b. E  35 mV, R  5 m e. E  7.5 V, R  2.5  103 
+
 c. V  200 V, R  40 k f. V  12 kV, R  2 M
 
 3. Para el circuito de la figura 4-33, calcule V para cada uno de los siguientes incisos:
+
 a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
 5. Cuando se conecta una lámpara eléctrica a un contacto de pared de 120 V, requiere 1.25 A. ¿Cuál es su resistencia?
