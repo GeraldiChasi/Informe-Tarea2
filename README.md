@@ -18,6 +18,9 @@ MARCO TEÓRICO (RESUMEN)
 
 
 
+![image](https://user-images.githubusercontent.com/84587120/121659236-b7431080-ca67-11eb-90ec-a42366a4a189.png)
+
+
 
 EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS
 Capítulo 3: 
