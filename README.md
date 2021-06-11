@@ -303,13 +303,23 @@ a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
 19. La figura 4-35 representa la gráfica I-V para el circuito de la figura 4-33. ¿Cuál es el valor de R?
 
+![image](https://user-images.githubusercontent.com/84587120/121651893-b8bd0a80-ca60-11eb-8483-23aa27899b93.png)
+
+
 21. En un circuito resistivo, E 100 V. Si R se duplica y E se cambia para que la nueva corriente sea el doble que la corriente original, ¿cuál es el nuevo valor de E?
 
+![image](https://user-images.githubusercontent.com/84587120/121651836-a93dc180-ca60-11eb-89d0-bbd75d63f2fd.png)
+
 23. Si 25 m de alambre de nicromo con un diámetro de 0.1 mm se conectan a una batería de 12 V, ¿cuál es la corriente a 20˚C?
+
+![image](https://user-images.githubusercontent.com/84587120/121651784-9b883c00-ca60-11eb-8ee0-841bbaa81c55.png)
+
 
 4-2 Polaridad del voltaje y dirección de la corriente
 
 25. Para cada resistor de la figura 4-36, determine el voltaje V y su polaridad o la corriente I, así como su dirección cuando sea posible.
+
+![image](https://user-images.githubusercontent.com/84587120/121651737-90cda700-ca60-11eb-90a3-a38d6e1e4038.png)
 
 4-3 Potencia 
 27. Un resistor disipa 723 joules de energía en 3 minutos y 47 segundos. Calcule la tasa a la cual la energía se transfiere a este resistor en joules por segundo. ¿Cuál es la energía disipada en watts?
@@ -319,6 +329,7 @@ a. 1 mA, 40 k c. 10 mA, 4  104  b. 10 A, 30 k d. 12 A
 
 29. Un resistor obtiene 3 A de una batería de 12 V. ¿Cuánta potencia entrega la batería al resistor?
 
+![image](https://user-images.githubusercontent.com/84587120/121651660-7a275000-ca60-11eb-980e-38982b607e54.png)
 
 
 31. Un calentador eléctrico de 1.2 kW tiene una resistencia de 6 . ¿Cuánta corriente requiere? 
@@ -436,16 +447,25 @@ b)
 
 4-8 Análisis de circuitos con ayuda de la computadora 
 69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e.
+70. 
+![image](https://user-images.githubusercontent.com/84587120/121652064-e73ae580-ca60-11eb-8546-11ebab6c0c9f.png)
 
 
 71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group), seleccione Lámpara Virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías. 
 
+![image](https://user-images.githubusercontent.com/84587120/121651109-e190d000-ca5f-11eb-8d99-b20bc0399a43.png)
+
+
 73. Repita el problema 70 con PSpice.
+
+![image](https://user-images.githubusercontent.com/84587120/121651195-fbcaae00-ca5f-11eb-9127-e697d6dd98d8.png)
+
 
 75. El cursor puede usarse para leer valores desde las gráficas de PSpice. Obtenga la gráfica del problema 74 en la pantalla y:
  a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 
+![image](https://user-images.githubusercontent.com/84587120/121651162-f0778280-ca5f-11eb-8272-dd5a52a77efa.png)
 
 VIDEO
 
