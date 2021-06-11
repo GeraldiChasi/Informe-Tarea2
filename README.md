@@ -379,18 +379,35 @@ Calcule el costo anual de poner a funcionar todas las cargas
 
 59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
 
+![image](https://user-images.githubusercontent.com/84427371/121641208-83aabb00-ca54-11eb-8c0d-0e9560b0bccc.png)
+
 61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo? 
+
+![image](https://user-images.githubusercontent.com/84427371/121641311-a2a94d00-ca54-11eb-9d7a-be0e59104c4e.png)
 
 
 63. Un motor de cd de 120 V opera una bomba a través de una caja de engranes (figura 4-24). Si la potencia de entrada a la bomba es de 1100 W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600 W, determine los caballos de potencia de salida del motor. 
 
+![image](https://user-images.githubusercontent.com/84427371/121641355-b48af000-ca54-11eb-8422-e629d27cba35.png)
+
 65. Si la eficiencia total de una estación radio transmisora es de 55% y transmite a 35 kW por 24 h/día, calcule el costo de energía que usa cada día a $0.09/kWh. 
+
+![image](https://user-images.githubusercontent.com/84427371/121641436-ca98b080-ca54-11eb-8b17-23b37a74976f.png)
 
 4-7 Resistencias no lineales y dinámicas
  67. Un resistor que depende del voltaje tiene la característica I-V de la figura 4-41. a. En V 25 V, ¿cuánto valen I y Rcd? b. En V 60 V, ¿cuánto valen I y Rcd? c. ¿Por qué los dos valores son diferentes?
+a)
+
+![image](https://user-images.githubusercontent.com/84427371/121641497-dedcad80-ca54-11eb-85f3-05ae77db1f60.png)
+
+b)
+
+![image](https://user-images.githubusercontent.com/84427371/121641576-f74cc800-ca54-11eb-9924-48343a9afc0f.png)
+
 
 4-8 Análisis de circuitos con ayuda de la computadora 
 69. Establezca el circuito de la figura 4-33 y resuelva para las corrientes dado el par voltaje/resistencia del problema 1a, 1c, 1d y 1e.
+
 
 71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group), seleccione Lámpara Virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías. 
 
